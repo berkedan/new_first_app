@@ -1,1 +1,1 @@
-First Rails application 
+First Rails application
